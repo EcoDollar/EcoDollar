@@ -1,0 +1,8 @@
+/usr/bin/ecodollar-cli		--	gen_context(system_u:object_r:ecodollar_exec_t,s0)
+/usr/sbin/ecodollard		--	gen_context(system_u:object_r:ecodollar_exec_t,s0)
+/usr/lib(64)?/ecodollar/ecodollard		--	gen_context(system_u:object_r:ecodollar_exec_t,s0)
+
+/etc/ecodollar(/.*)?		gen_context(system_u:object_r:ecodollar_conf_t,s0)
+/var/lib/ecodollar(/.*)?		gen_context(system_u:object_r:ecodollar_var_lib_t,s0)
+
+(/var)?/run/ecodollard(/.*)?   gen_context(system_u:object_r:ecodollar_var_run_t,s0)

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=ECODOLLAR Core
+Comment=ECODOLLAR P2P Cryptocurrency
+Comment[fr]=ECODOLLAR, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ECODOLLAR, eşten eşe kriptografik sanal para birimi
+Exec=ecodollar-qt %u
+Terminal=false
+Type=Application
+Icon=ecodollar128
+MimeType=x-scheme-handler/ecodollar;
+Categories=Office;Finance;
+StartupWMClass=Ecodollar-qt

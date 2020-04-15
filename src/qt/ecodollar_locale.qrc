@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="en_GB">locale/ecodollar_en_GB.qm</file>
+        <file alias="en_US">locale/ecodollar_en_US.qm</file>
+        <file alias="es">locale/ecodollar_es.qm</file>
+        <file alias="es_ES">locale/ecodollar_es_ES.qm</file>
+    </qresource>
+</RCC>

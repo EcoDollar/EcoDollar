@@ -1,0 +1,6 @@
+usr/local/bin/ecodollar-qt usr/bin
+share/pixmaps/ecodollar32.xpm usr/share/pixmaps
+share/pixmaps/ecodollar16.xpm usr/share/pixmaps
+share/pixmaps/ecodollar128.png usr/share/pixmaps
+debian/ecodollar-qt.desktop usr/share/applications
+debian/ecodollar-qt.protocol usr/share/kde4/services/
