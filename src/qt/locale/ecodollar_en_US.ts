@@ -1665,16 +1665,16 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>Enter port</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Make sure you have this amount of coins.</source>
         <translation>Make sure you have this amount of coins.</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Address of the node that must always be online running the actual master node.</source>
@@ -1782,10 +1782,10 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>Masternodes</translation>
     </message>
     <message>
-        <source>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</source>
-        <translation>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</translation>
+        <source>By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</source>
+        <translation>By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</translation>
     </message>
     <message>
         <source>Create Masternode Controller</source>
@@ -1896,8 +1896,8 @@ Are you sure?</translation>
         <translation>masternode.conf file doesn't exists</translation>
     </message>
     <message>
-        <source>Not enough balance to create a masternode, 10,000 ECOS required.</source>
-        <translation>Not enough balance to create a masternode, 10,000 ECOS required.</translation>
+        <source>Not enough balance to create a masternode, 100,000 ECOS required.</source>
+        <translation>Not enough balance to create a masternode, 100,000 ECOS required.</translation>
     </message>
     <message>
         <source>Error creating masternode</source>
@@ -6087,8 +6087,8 @@ ECODOLLAR Secure Staking Wallet</translation>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The EcoDollar blockchain and wallet runs on a secure and encrypted platform with servers distributed all around the world. Our programming code is “Open Source”, audited externally and can be reviewed by anyone in the world. All the transactions that are processed in the blockchain are encrypted end-to-end.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</source>
-        <translation>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</translation>
+        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</source>
+        <translation>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</translation>
     </message>
     <message>
         <source>Security of the EcoDollar Wallet 

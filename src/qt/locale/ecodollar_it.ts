@@ -1611,16 +1611,16 @@ Si avvierà automaticamente non appena il portafoglio avrà sufficienti conferme
         <translation>Indirizzo</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Per creare un Masternode ECODOLLAR devi dedicare 10.000 ECOS (l'unità di ECODOLLAR) alla rete (tuttavia, queste valute sono ancora tue e saranno sempre in tuo possesso). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Puoi disattivare il nodo e sbloccare le valute in qualsiasi momento.</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Per creare un Masternode ECODOLLAR devi dedicare 100.000 ECOS (l'unità di ECODOLLAR) alla rete (tuttavia, queste valute sono ancora tue e saranno sempre in tuo possesso). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Puoi disattivare il nodo e sbloccare le valute in qualsiasi momento.</translation>
     </message>
     <message>
         <source>Make sure you have this amount of coins.</source>
         <translation>Assicurati di avere questa quantità di valuta.</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Verrà effettuata una transazione di 10.000 ECOS&lt;/p&gt;&lt;p&gt;a un nuovo indirizzo vuoto nel tuo portafoglio.&lt;p&gt;L'indirizzo è etichettato con il nome del Masternode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Verrà effettuata una transazione di 100.000 ECOS&lt;/p&gt;&lt;p&gt;a un nuovo indirizzo vuoto nel tuo portafoglio.&lt;p&gt;L'indirizzo è etichettato con il nome del Masternode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Address of the node that must always be online running the actual master node.</source>
@@ -1698,8 +1698,8 @@ Si avvierà automaticamente non appena il portafoglio avrà sufficienti conferme
         <translation>Masternodes</translation>
     </message>
     <message>
-        <source>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</source>
+        <source>By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</source>
         <translation>Nodi completi che incentivano gli operatori dei nodi a svolgere le funzioni di consenso di base
 e votano il sistema di tesoreria ricevendo una ricompensa periodica.</translation>
     </message>
@@ -1792,8 +1792,8 @@ Sei sicuro?</translation>
         <translation>il file masternode.conf non esiste</translation>
     </message>
     <message>
-        <source>Not enough balance to create a masternode, 10,000 ECOS required.</source>
-        <translation>Saldo insufficiente per creare un masternode, sono necessari 10.000 ECOS.</translation>
+        <source>Not enough balance to create a masternode, 100,000 ECOS required.</source>
+        <translation>Saldo insufficiente per creare un masternode, sono necessari 100.000 ECOS.</translation>
     </message>
     <message>
         <source>Error creating masternode</source>
@@ -4223,7 +4223,7 @@ Se desideri più zECOS, dovrai forgiare il saldo nella scheda "Privacy".
         <translation>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
                            Un masternode è un computer che esegue un portafoglio core ECODOLLAR a nodo completo
-con un requisito di 10.000 ECOS a garanzia per fornire servizi extra
+con un requisito di 100.000 ECOS a garanzia per fornire servizi extra
 alla rete e, in cambio, riceve una parte del premio del blocco
 regolarmente. Questi servizi includono:
                            &lt;/p&gt;&lt;p align="justify"&gt;
@@ -4255,7 +4255,7 @@ regolarmente. Questi servizi includono:
                            Requisiti:
                            &lt;/p&gt;&lt;p align="justify"&gt;
                            &lt;ul&gt;
-                           &lt;li&gt;10,000 ECOS per singolo Masternode
+                           &lt;li&gt;100,000 ECOS per singolo Masternode
                            &lt;li&gt;Devono essere conservati in un portafoglio core&lt;/li&gt;
                            &lt;li&gt;Necessita un indirizzo IP dedicato&lt;/li&gt;
                            &lt;li&gt;Il portafoglio del Masternode deve rimanere online&lt;/li&gt;
@@ -5794,8 +5794,8 @@ Portafoglio ECODOLLAR Core.</translation>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Come dice il nostro manifesto: la privacy è un diritto umano di base non negoziabile; garantisce agli utenti la libertà di condividere i propri dati quando e con chi vuole - ECODOLLAR crede nell'auto sovranità.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</source>
-        <translation>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</translation>
+        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</source>
+        <translation>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</translation>
     </message>
     <message>
         <source>Security of the EcoDollar Wallet 

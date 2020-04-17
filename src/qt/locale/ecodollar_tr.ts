@@ -1612,16 +1612,16 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>Adres</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yeni bir Masternode yaratmak için ağa 10.000 ECOS (ECODOLLAR birimi) ayırmanız gerekmektedir (buna rağmen koinler hala size aittir ve sahipliğini kororsunuz). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;İstediğiniz zaman devre dışı bırakabilir ve koinlerinizin kilidini kaldırabilirsiniz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yeni bir Masternode yaratmak için ağa 100.000 ECOS (ECODOLLAR birimi) ayırmanız gerekmektedir (buna rağmen koinler hala size aittir ve sahipliğini kororsunuz). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;İstediğiniz zaman devre dışı bırakabilir ve koinlerinizin kilidini kaldırabilirsiniz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Make sure you have this amount of coins.</source>
         <translation>Bu miktarda koininizin olduğundan emin olunuz.</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;10.000 ECOS'lik bir transfer &lt;/p&gt;&lt;p&gt;yeni ve boş bir adrese yapılacaktır.&lt;/p&gt;&lt;p&gt;Adres Masternode'unuz ismi ile etiketlenecektir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;100.000 ECOS'lik bir transfer &lt;/p&gt;&lt;p&gt;yeni ve boş bir adrese yapılacaktır.&lt;/p&gt;&lt;p&gt;Adres Masternode'unuz ismi ile etiketlenecektir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Address of the node that must always be online running the actual master node.</source>
@@ -1699,8 +1699,8 @@ Cüzdanınız senkronize olduktan ve harcanmamış bakiyeniz yeterli miktarda on
         <translation>Masternode'lar</translation>
     </message>
     <message>
-        <source>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</source>
+        <source>By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</source>
         <translation>Düğüm operatörlerinin temel konsensüs fonksiyonlarını teşvik eden tam düğümler hazine sisteminde oy kullanarak düzenli ödüller kazanırlar. </translation>
     </message>
     <message>
@@ -1792,8 +1792,8 @@ Emin misiniz?</translation>
         <translation> masternode.conf dosyası bulunamadı</translation>
     </message>
     <message>
-        <source>Not enough balance to create a masternode, 10,000 ECOS required.</source>
-        <translation>Masternode yaratmak için yetersiz bakiye, 10,000 ECOS gerekmektedir.</translation>
+        <source>Not enough balance to create a masternode, 100,000 ECOS required.</source>
+        <translation>Masternode yaratmak için yetersiz bakiye, 100,000 ECOS gerekmektedir.</translation>
     </message>
     <message>
         <source>Error creating masternode</source>
@@ -4215,7 +4215,7 @@ zECOS Protokolü ile anonimleştirilmiş olacaktır.
                          </source>
         <translation>
                            &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="justify"&gt;
-                           Tam düğüm ECODOLLAR core cüzdanını çalıştıran, gereken 10,000 ECOS
+                           Tam düğüm ECODOLLAR core cüzdanını çalıştıran, gereken 100,000 ECOS
                            teminat bakiyesini barındırarak ağa ekstra hizmetler sunan ve
                            karşılığında da her blok ödülünden düzenli olarak pay alan bir
                            bilgisayardır.Bu hizmetler aşağıdaki gibidir:
@@ -4248,7 +4248,7 @@ işletim maliyetleri sonrası pasif bir gelir sunar.
                            Gereksinimler:
                            &lt;/p&gt;&lt;p align="justify"&gt;
                            &lt;ul&gt;
-                           &lt;li&gt;Her Masternod için ayrı 10,000 ECOS
+                           &lt;li&gt;Her Masternod için ayrı 100,000 ECOS
                            &lt;li&gt;Core cüzdan içinde saklanmalıdır.&lt;/li&gt;
                            &lt;li&gt;Atanmış IP adresi gerekmektedir. &lt;/li&gt;
                            &lt;li&gt;Masternode cüzdanının online olması&lt;/li&gt;
@@ -5787,8 +5787,8 @@ Hoşgeldiniz</translation>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Manifestomuzda yazdığı gibi: Gizlilik, pazarlık yapılamayacak temel bir insan hakkıdır; kullanıcılarına istedikleri zaman ve istedikleri kişiyle verilerini paylaşma özgürlüğü verir - ECODOLLAR özerkliğe inanır.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</source>
-        <translation>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</translation>
+        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</source>
+        <translation>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</translation>
     </message>
     <message>
         <source>Security of the EcoDollar Wallet 

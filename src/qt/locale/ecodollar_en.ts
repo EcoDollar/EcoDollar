@@ -2090,7 +2090,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="-253"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2100,7 +2100,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+93"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node&apos;s name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node&apos;s name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2229,8 +2229,8 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+4"/>
-        <source>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</source>
+        <source>Full nodes By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2352,7 +2352,7 @@ Are you sure?</source>
     </message>
     <message>
         <location line="+7"/>
-        <source>Not enough balance to create a masternode, 10,000 ECOS required.</source>
+        <source>Not enough balance to create a masternode, 100,000 ECOS required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7571,7 +7571,7 @@ ECODOLLAR Secure Staking Wallet</source>
     </message>
     <message>
         <location line="+83"/>
-        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</source>
+        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

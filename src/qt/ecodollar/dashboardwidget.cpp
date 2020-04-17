@@ -62,6 +62,8 @@ DashboardWidget::DashboardWidget(ECODOLLARGUI* parent) :
     setCssProperty(ui->labelEcos, "text-chart-ecos");
     setCssProperty(ui->labelZecos, "text-chart-zecos");
 
+    ui->labelZecos->setVisible(false);
+
     // Staking Amount
     QFont fontBold;
     fontBold.setWeight(QFont::Bold);

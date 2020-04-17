@@ -1610,16 +1610,16 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>Dirección</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Para crear un Masternode de ECODOLLAR debes desponer 10.000 ECODOLLAR (la unidad de ECODOLLAR) a la red (sin embargo, estas monedas siguen siendo tuyas y nunca saldrán de tu posesión). Puedes desactivar el nodo y desbloquear las monedas en cualquier momento.</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>Para crear un Masternode de ECODOLLAR debes desponer 100.000 ECODOLLAR (la unidad de ECODOLLAR) a la red (sin embargo, estas monedas siguen siendo tuyas y nunca saldrán de tu posesión). Puedes desactivar el nodo y desbloquear las monedas en cualquier momento.</translation>
     </message>
     <message>
         <source>Make sure you have this amount of coins.</source>
         <translation>Asegúrate de tener esta cantidad de monedas.</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Una transacción de 10,000 ECOS se hará a una nueva dirección vacía en tu billetera.  La dirección está etiquetada bajo el nombre de masternode. </translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>Una transacción de 100,000 ECOS se hará a una nueva dirección vacía en tu billetera.  La dirección está etiquetada bajo el nombre de masternode. </translation>
     </message>
     <message>
         <source>Address of the node that must always be online running the actual master node.</source>
@@ -1697,9 +1697,10 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>Masternodes</translation>
     </message>
     <message>
-        <source>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</source>
-        <translation>Nodos completos que incentivan a los operadores de nodos a realizar las funciones básicas de consenso y votar sobre el sistema de tesorería recibiendo una recompensa periódica.</translation>
+        <source>By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</source>
+        <translation>Al ejecutar un servidor MasterNode, mejora las funciones principales de consenso
+de blockchain para recibir una recompensa periódica en monedas EcoDollar.</translation>
     </message>
     <message>
         <source>Create Masternode Controller</source>
@@ -1787,8 +1788,8 @@ Are you sure?</source>
         <translation>El archivo masternode.conf no existe</translation>
     </message>
     <message>
-        <source>Not enough balance to create a masternode, 10,000 ECOS required.</source>
-        <translation>No hay suficiente saldo para crear un masternode, se necesitan 10.000 ECOS.</translation>
+        <source>Not enough balance to create a masternode, 100,000 ECOS required.</source>
+        <translation>No hay suficiente saldo para crear un masternode, se necesitan 100.000 ECOS.</translation>
     </message>
     <message>
         <source>Error creating masternode</source>
@@ -5737,7 +5738,7 @@ Billetera Segura EcoDollar para minería</translation>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La billetera y el blockchain de EcoDollar se ejecutan en una plataforma segura y encriptada con servidores distribuidos en todo el mundo. Nuestro código de programación es "Open Source", auditado externamente y puede ser revisado por cualquier persona en el mundo. Todas las transacciones que se procesan en el blockchain se encriptan de extremo a extremo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</source>
+        <source>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</source>
         <translation>Puede comprar la criptomoneda EcoDollar directamente desde el sitio web EcoDollar.org. El proceso es muy simple y seguro y puede comprar con su tarjeta de crédito.</translation>
     </message>
     <message>

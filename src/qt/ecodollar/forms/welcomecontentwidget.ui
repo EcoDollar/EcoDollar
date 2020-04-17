@@ -1140,7 +1140,7 @@ and the Blockchain</string>
                 <item>
                  <widget class="QLabel" name="labelMessage4">
                   <property name="text">
-                   <string>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy using your Credit Card.</string>
+                   <string>You can buy the EcoDollar cryptocurrency from the EcoDollar.org website directly. The process is very simple and secure and you can buy it using your Credit Card.</string>
                   </property>
                   <property name="alignment">
                    <set>Qt::AlignCenter</set>

@@ -1403,16 +1403,16 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>Adress</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 10.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>För att skapa en ECODOLLAR Masternode måste du avsätta 10.000 ECOS (enheten till ECODOLLAR) till nätverket (dessa mynt är dock fortfarande dina och kommer aldrig att lämna ditt innehav). Du kan stänga av noden och låsa upp mynt när som helst.</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a ECODOLLAR Masternode you must dedicate 100.000 ECOS (the unit of ECODOLLAR) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>För att skapa en ECODOLLAR Masternode måste du avsätta 100.000 ECOS (enheten till ECODOLLAR) till nätverket (dessa mynt är dock fortfarande dina och kommer aldrig att lämna ditt innehav). Du kan stänga av noden och låsa upp mynt när som helst.</translation>
     </message>
     <message>
         <source>Make sure you have this amount of coins.</source>
         <translation>Se till att du har denna mängd mynt.</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 10,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>En transaktion på 10 000 ECOS kommer göras till en ny tom adress i din plånbok. Adressen är märkt under huvudnodens namn.</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 100,000 ECOS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>En transaktion på 100 000 ECOS kommer göras till en ny tom adress i din plånbok. Adressen är märkt under huvudnodens namn.</translation>
     </message>
     <message>
         <source>Address of the node that must always be online running the actual master node.</source>
@@ -1534,8 +1534,8 @@ Den startar automatiskt så snart plånboken har tillräckligt många bekräftel
         <translation>Masternoder</translation>
     </message>
     <message>
-        <source>Full nodes that incentivize node operators to perform the core consensus functions
-and vote on the treasury system receiving a periodic reward.</source>
+        <source>By running a MasterNode server you improve the core blockchain consensus functions
+in order to receive a periodic reward in EcoDollar coins.</source>
         <translation>Noder som erbjuder nod operatörer att utföra grundläggande konsensus funktioner och rösta på treasury systemet och tar emot en återkommande belöning.</translation>
     </message>
     <message>
@@ -1617,8 +1617,8 @@ Are you sure?</source>
         <translation>Masternode conf file existerar inte</translation>
     </message>
     <message>
-        <source>Not enough balance to create a masternode, 10,000 ECOS required.</source>
-        <translation>Inte nog på saldot för att skapa en Masternode, 10000 ECOS behövs.</translation>
+        <source>Not enough balance to create a masternode, 100,000 ECOS required.</source>
+        <translation>Inte nog på saldot för att skapa en Masternode, 100000 ECOS behövs.</translation>
     </message>
     <message>
         <source>Error creating masternode</source>

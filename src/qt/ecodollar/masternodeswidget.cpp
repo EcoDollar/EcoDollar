@@ -94,7 +94,8 @@ MasterNodesWidget::MasterNodesWidget(ECODOLLARGUI *parent) :
     setCssTitleScreen(ui->labelTitle);
     ui->labelTitle->setFont(fontLight);
 
-    ui->labelSubtitle1->setText(tr("Full nodes that incentivize node operators to perform the core consensus functions\nand vote on the treasury system receiving a periodic reward."));
+    ui->labelSubtitle1->setText(tr("By running a MasterNode server you improve the core blockchain consensus functions\nin order to receive a periodic reward in EcoDollar coins."));
+                                    
     setCssSubtitleScreen(ui->labelSubtitle1);
 
     /* Buttons */
@@ -129,8 +130,8 @@ MasterNodesWidget::MasterNodesWidget(ECODOLLARGUI *parent) :
         onStartAllClicked(REQUEST_START_MISSING);
     });
     connect(ui->listMn, SIGNAL(clicked(QModelIndex)), this, SLOT(onMNClicked(QModelIndex)));
-    connect(ui->btnAbout, &OptionButton::clicked, [this](){window->openFAQ(9);});
-    connect(ui->btnAboutController, &OptionButton::clicked, [this](){window->openFAQ(10);});
+    connect(ui->btnAbout, &OptionButton::clicked, [this](){window->openFAQ(4);});
+    connect(ui->btnAboutController, &OptionButton::clicked, [this](){window->openFAQ(5);});
 }
 
 void MasterNodesWidget::showEvent(QShowEvent *event){
@@ -427,8 +428,8 @@ void MasterNodesWidget::onDeleteMNClicked(){
 
 void MasterNodesWidget::onCreateMNClicked(){
     if(verifyWalletUnlocked()) {
-        if(walletModel->getBalance() <= (COIN * 10000)){
-            inform(tr("Not enough balance to create a masternode, 10,000 ECOS required."));
+        if(walletModel->getBalance() <= (COIN * 100000)){
+            inform(tr("Not enough balance to create a masternode, 100,000 ECOS required."));
             return;
         }
         showHideOp(true);
