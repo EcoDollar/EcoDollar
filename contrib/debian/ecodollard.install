@@ -1,0 +1,3 @@
+usr/local/bin/ecodollard usr/bin
+usr/local/bin/ecodollar-cli usr/bin
+debian/examples/ecodollar.conf etc/ecodollar
