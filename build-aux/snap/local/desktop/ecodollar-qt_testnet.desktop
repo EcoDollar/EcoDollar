@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=ECODOLLAR Core
+Comment=ECODOLLAR Core QT test network
+GenericName=ECODOLLAR Digital Currency QT client testnet network
+Exec=ecodollar-core.qt-testnet %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/ecodollar_testnet.png
+MimeType=x-scheme-handler/ecos;
+Categories=X-Office;X-Finance;
+Keywords=internet;ecodollar;zecos;tecos;core;wallet;qt;testnet;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0
