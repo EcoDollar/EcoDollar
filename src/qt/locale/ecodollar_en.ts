@@ -2022,7 +2022,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+7"/>
-        <source>Address: 88.26.164.88:39025</source>
+        <source>Address: 88.26.164.88:39125</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8003,8 +8003,8 @@ and the Blockchain</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation type="unfinished">(39023 could be used only on mainnet)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation type="unfinished">(39123 could be used only on mainnet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8018,7 +8018,7 @@ and the Blockchain</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>(must be 39023 for mainnet)</source>
+        <source>(must be 39123 for mainnet)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

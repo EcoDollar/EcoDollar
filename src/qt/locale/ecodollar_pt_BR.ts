@@ -1357,8 +1357,8 @@ Ele será iniciado automaticamente assim que a carteira tiver confirmações suf
         <translation>usuario_masternod</translation>
     </message>
     <message>
-        <source>Address: 88.26.164.88:39025</source>
-        <translation>Endereço: 88.26.164.88:39025</translation>
+        <source>Address: 88.26.164.88:39125</source>
+        <translation>Endereço: 88.26.164.88:39125</translation>
     </message>
     <message>
         <source>Jan. 19, 2019</source>
@@ -3525,8 +3525,8 @@ Endereço: %4
         <translation>Você deve especificar uma masternodeprivkey na configuração. Favor verificar o manual para obter ajuda.</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 could be used only on mainnet)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3537,8 +3537,8 @@ Endereço: %4
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(deve ser 39023 para mainnet)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(deve ser 39123 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>

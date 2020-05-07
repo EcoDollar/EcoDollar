@@ -1570,8 +1570,8 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>user_masternode</translation>
     </message>
     <message>
-        <source>Address: 88.26.164.88:39025</source>
-        <translation>Адрес: 88.26.164.88:39025 </translation>
+        <source>Address: 88.26.164.88:39125</source>
+        <translation>Адрес: 88.26.164.88:39125 </translation>
     </message>
     <message>
         <source>Jan. 19, 2019</source>
@@ -6080,8 +6080,8 @@ and the Blockchain</source>
         <translation>Вы должны указать в  строке приложенный ключ. Пожалуйста, обратитесь к документации для получения справки</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 можно использовать только в сети)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 можно использовать только в сети)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6092,8 +6092,8 @@ and the Blockchain</source>
         <translation>(неуплата: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(должен быть 39023 для mainet)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(должен быть 39123 для mainet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

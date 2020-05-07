@@ -3962,8 +3962,8 @@ Sprawdź adres i spróbuj ponownie.</translation>
         <translation>Musisz określić masternodeprivkey w konfiguracji. Aby uzyskać pomoc, zapoznaj się z dokumentacją.</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 może być używany tylko w sieci mainnet)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 może być używany tylko w sieci mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3974,8 +3974,8 @@ Sprawdź adres i spróbuj ponownie.</translation>
         <translation>(domyślnie: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(musi być 39023 dla mainnetu)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(musi być 39123 dla mainnetu)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

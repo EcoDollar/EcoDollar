@@ -3174,8 +3174,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Morate odrediti masternodeprivkey u konfiguraciji. Za pomoć pogledajte dokumentaciju.</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 se može koristiti samo na mainnetu)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 se može koristiti samo na mainnetu)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3186,8 +3186,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(mora biti 39023 za glavnu mrežu)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(mora biti 39123 za glavnu mrežu)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

@@ -1373,8 +1373,8 @@ Die staking Aktivität wird automatisch gestartet, sobald die Wallet genügend K
         <translation>Benutzer_masternode</translation>
     </message>
     <message>
-        <source>Address: 88.26.164.88:39025</source>
-        <translation>Address: 88.26.164.88:39025</translation>
+        <source>Address: 88.26.164.88:39125</source>
+        <translation>Address: 88.26.164.88:39125</translation>
     </message>
     <message>
         <source>Jan. 19, 2019</source>
@@ -4651,8 +4651,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Sie müssen einen privaten Masternode-Schlüssel in der Konfiguration festlegen. Bitte nutzen Sie die Dokumentation zwecks Hilfe.</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 kann nur im Mainnet verwendet werden)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 kann nur im Mainnet verwendet werden)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4663,8 +4663,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(muss im Mainnet 39023 sein)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(muss im Mainnet 39123 sein)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

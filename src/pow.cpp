@@ -112,13 +112,13 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
     bnNew /= _nTargetTimespan;
 
     if (bnNew > Params().ProofOfWorkLimit()) {
-        bnNew = Params().ProofOfWorkLimit();
+        bnNew = Params().ProofOfWorkLimit(); 
     }
 
     return bnNew.GetCompact();
 }
 
-bool CheckProofOfWork(uint256 hash, unsigned int nBits)
+bool CheckProofOfWork(uint256 hash, unsigned int nBits) 
 {
     bool fNegative;
     bool fOverflow;

@@ -253,10 +253,10 @@ QT_TRANSLATE_NOOP("ecodollar-core", ""
 QT_TRANSLATE_NOOP("ecodollar-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("ecodollar-core", "(39023 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("ecodollar-core", "(39123 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("ecodollar-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("ecodollar-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("ecodollar-core", "(must be 39023 for mainnet)"),
+QT_TRANSLATE_NOOP("ecodollar-core", "(must be 39123 for mainnet)"),
 QT_TRANSLATE_NOOP("ecodollar-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("ecodollar-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("ecodollar-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

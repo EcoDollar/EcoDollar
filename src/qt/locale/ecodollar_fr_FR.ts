@@ -1572,8 +1572,8 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
         <translation>utilisateur de masternode</translation>
     </message>
     <message>
-        <source>Address: 88.26.164.88:39025</source>
-        <translation>Adresse: 88.26.164.88:39025</translation>
+        <source>Address: 88.26.164.88:39125</source>
+        <translation>Adresse: 88.26.164.88:39125</translation>
     </message>
     <message>
         <source>Jan. 19, 2019</source>
@@ -6127,8 +6127,8 @@ and the Blockchain</source>
         <translation>Vous devez spécifier une masternodeprivkey dans la configuration. Veuillez consulter la documentation pour obtenir de l'aide.</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 ne peut être utilisé que pour le mainnet)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 ne peut être utilisé que pour le mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6139,8 +6139,8 @@ and the Blockchain</source>
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(doit être 39023 pour le mainnet)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(doit être 39123 pour le mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

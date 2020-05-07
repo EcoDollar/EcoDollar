@@ -1571,8 +1571,8 @@ It will start automatically as soon as the wallet has enough confirmations on an
         <translation>usuario_masternode</translation>
     </message>
     <message>
-        <source>Address: 88.26.164.88:39025</source>
-        <translation>Dirección: 88.26.164.88:39025</translation>
+        <source>Address: 88.26.164.88:39125</source>
+        <translation>Dirección: 88.26.164.88:39125</translation>
     </message>
     <message>
         <source>Jan. 19, 2019</source>
@@ -6086,8 +6086,8 @@ y del Blockchain</translation>
         <translation>Debes especificar un masternodeprivkey en la configuración. Por favor mira la documentación por ayuda.</translation>
     </message>
     <message>
-        <source>(39023 could be used only on mainnet)</source>
-        <translation>(39023 puede ser utilizado solo en mainnet)</translation>
+        <source>(39123 could be used only on mainnet)</source>
+        <translation>(39123 puede ser utilizado solo en mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6098,8 +6098,8 @@ y del Blockchain</translation>
         <translation>(predeterminado: 1)</translation>
     </message>
     <message>
-        <source>(must be 39023 for mainnet)</source>
-        <translation>(debe ser 39023 para un mainnet)</translation>
+        <source>(must be 39123 for mainnet)</source>
+        <translation>(debe ser 39123 para un mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
