@@ -134,11 +134,11 @@ executables to a directory on the Windows drive in the same directory structure
 as they appear in the release `.zip` archive. This can be done in the following
 way. This will install to `c:\workspace\ecodollar`, for example:
 
-    make install DESTDIR=/mnt/c/workspace/ecodollar
+    sudo make install DESTDIR=/mnt/c/workspace/ecodollar
 
 You can also create an installer using:
 
-    make deploy
+    sudo make deploy
 
 Footnotes
 ---------

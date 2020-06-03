@@ -60,13 +60,14 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
     (1000, uint256("57e2b597d1e514d78815006589a57bead9ad6fe06481d19b90dd117f6060f578")) 
     (2500, uint256("cb1b1f7f9c09e08d31014968a44502fa0b8635540d912cc7ea059d4f43e6fe08"))
     (5000, uint256("f288bdb11825f3091beda88b9b8067b8d93fbb5dc9a3cd7bd34565a44e6a928a"))
-	/*(10000, uint256(""))
-    (20000, uint256(""))*/
-    //(40000, uint256(""))
+	(10000, uint256("441947b9984fefd31ef9c44010523be4f89e9c036a67b31e8beae63aa18d1e68"))
+    (20000, uint256("7a1b03e648e43926da81d15a9067d2cb981150c78823c5a04c19854a042c3bd5"))
+    (40000, uint256("237761385bbdca66c9bccd5586146ec26bd50a951ebeeb69d49dd085340f8cf9"))
+	//(80000, uint256(""))
     ;
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1588857210, // * UNIX timestamp of last checkpoint block
+    1591005240, // * UNIX timestamp of last checkpoint block
     5116987,    // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000        // * estimated number of transactions per day after checkpoint
@@ -80,14 +81,15 @@ static Checkpoints::MapCheckpoints mapCheckpointsTestnet =
     (500, uint256("c0865f7d6c98d2c9189244fbf4c505324497e758d1716ed5d4dbf4e053cab45b"))
     (1000, uint256("91d2df53095214ba34516b2c4ec3a2b40754eaa8c44eb54fb49d300d2bcbd595")) 
     (2500, uint256("80455f7fa6f261c7f53e3b796b71838001bb57d39ff47bd3f085624d13c5c4a2"))
-    /*(5000, uint256(""))
-	(10000, uint256(""))*/
-    //(20000, uint256(""))
+    (5000, uint256("fbc8e537aebb7c45011a0cdf1683dfa3f37b50a0a049584032cdf700f9065c05"))
+	(10000, uint256("f36673714ea9d236409ae1d2abed50b795603e1986829c16f9c817b519aad185"))
+    (20000, uint256("e44e9220f0968ce22f24055ecc3ee1e032129506d2747853ca32cba14ea0c2f6"))
     //(40000, uint256(""))    
+	//(80000, uint256(""))    
     ;
 static const Checkpoints::CCheckpointData dataTestnet = {
     &mapCheckpointsTestnet,
-    1588874415,
+    1589948460,
     5116987,
     2000};
 
