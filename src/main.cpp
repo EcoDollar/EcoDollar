@@ -4511,28 +4511,28 @@ bool CheckBlock(const CBlock& block, CValidationState& state, bool fCheckPOW, bo
             CAmount nBackboneValue = GetBackbonePayment(nHeight - 1, nBlockValue);
             CAmount nMasternodeValue = GetMasternodePayment(nHeight - 1, nBlockValue, 0, false);
 
-            if (tx.vout[nIndex].nValue != nMasternodeValue) {
-                return state.DoS(100, error("%s : rejected by check masternode lock-in at %d", __func__, nHeight),
-                    REJECT_INVALID, "check Backbone mismatch");
-            }
+            //if (tx.vout[nIndex].nValue != nMasternodeValue) {
+            //    return state.DoS(100, error("%s : rejected by check masternode lock-in at %d", __func__, nHeight),
+            //        REJECT_INVALID, "check Backbone mismatch");
+            //}
 
-            if (tx.vout[nIndex + 1].nValue != nBackboneValue) {
-                return state.DoS(100, error("%s : rejected by check Backbone value lock-in at %d", __func__, nHeight),
-                    REJECT_INVALID, "check Backbone mismatch");
-            }
+            //if (tx.vout[nIndex + 1].nValue != nBackboneValue) {
+            //    return state.DoS(100, error("%s : rejected by check Backbone value lock-in at %d", __func__, nHeight),
+            //        REJECT_INVALID, "check Backbone mismatch");
+            //}
 
-            if (nHeight != 0 && !IsInitialBlockDownload()) {
-                CBitcoinAddress addr(Params().GetBackboneAddress());
-                CScript scriptPubKey = GetScriptForDestination(addr.Get());
-                CScript backboneScriptPubKey = scriptPubKey;
+            //if (nHeight != 0 && !IsInitialBlockDownload()) {
+            //    CBitcoinAddress addr(Params().GetBackboneAddress());
+            //    CScript scriptPubKey = GetScriptForDestination(addr.Get());
+            //    CScript backboneScriptPubKey = scriptPubKey;
 
-                if (tx.vout[nIndex + 1].scriptPubKey != backboneScriptPubKey) {
-                    return state.DoS(100, error("%s : rejected by check Backbone address lock-in at %d", __func__, nHeight),
-                        REJECT_INVALID, "check Backbone mismatch");
-                }
-            } else if (fDebug) {
-                LogPrintf("CheckBlock(): Backbone destination check skipped on sync\n");
-            }
+            //    if (tx.vout[nIndex + 1].scriptPubKey != backboneScriptPubKey) {
+            //        return state.DoS(100, error("%s : rejected by check Backbone address lock-in at %d", __func__, nHeight),
+            //            REJECT_INVALID, "check Backbone mismatch");
+            //    }
+            //} else if (fDebug) {
+            //    LogPrintf("CheckBlock(): Backbone destination check skipped on sync\n");
+            //}
         }
     }
 
